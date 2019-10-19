@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f80b28cae24ae38174418b564c1479b3",
+    "revision": "2b3fb04d71279fd0d5b99b550aeaefbc",
     "url": "/react-video-search/index.html"
   },
   {
-    "revision": "82f3c29bda8578095ac6",
+    "revision": "7bf7864eb380146861cf",
     "url": "/react-video-search/static/css/main.86a249f5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-video-search/static/js/2.24abbac4.chunk.js"
   },
   {
-    "revision": "82f3c29bda8578095ac6",
-    "url": "/react-video-search/static/js/main.bad31f45.chunk.js"
+    "revision": "7bf7864eb380146861cf",
+    "url": "/react-video-search/static/js/main.ab60f79f.chunk.js"
   },
   {
     "revision": "de7e828ca6e3230126aa",
